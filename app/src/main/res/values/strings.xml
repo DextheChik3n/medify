@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medify</string>
+    <string name="title_medicine">My Medicines</string>
+    <string name="title_hospital">Hospitals</string>
+    <string-array name="medicine_types">
+        <item>Liquid</item>
+        <item>Tablet</item>
+        <item>Capsules</item>
+    </string-array>
+</resources>

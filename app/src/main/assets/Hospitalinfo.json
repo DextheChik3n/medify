@@ -1,0 +1,135 @@
+{
+"hospitals":[
+    {
+        "hospitalname": "Changi General Hospital",
+        "address": "2 Simei Street 3, Singapore 529889",
+        "generaltelephone": "6788 8833",
+        "emergencytelephone": "6850 1680",
+        "email": "feedback@cgh.com.sg",
+        "website": "http://www.cgh.com.sg/",
+        "visitinghours": "General Wards - Mon to Fri: 12pm to 2pm, 5pm to 9pm | Sat, Sun & Public Holiday: 12pm to 9pm\n\nICU Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 9pm",
+        "imageurl": "https://s22.postimg.cc/tzjoz2e0h/Changi_General.png"
+    },
+    {
+        "hospitalname": "Gleneagles Hospital",
+        "address": "6A Napier Rd, Singapore 258500",
+        "generaltelephone": "6473 7222",
+        "emergencytelephone": "6470 5688",
+        "email": "enquiries@gleneagles.com.sg",
+        "website": "http://www.gleneagles.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 8am to 8pm\n\nICU Wards - Mon to Sun including Public Holidays: 8am to 1.30pm, 2.30pm to 8pm",
+        "imageurl": "https://s22.postimg.cc/up2hbs9ip/gleneagles.png"
+    },
+    {
+        "hospitalname": "Khoo Teck Puat Hospital",
+        "address": "90 Yishun Central, Singapore 768828",
+        "generaltelephone": "6555 8000",
+        "emergencytelephone": "6555 8000",
+        "email": "enquiry@alexandrahealth.com.sg",
+        "website": "http://www.ktph.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8pm\n\nICU Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8pm",
+        "imageurl": "https://s22.postimg.cc/6y33tp46p/khooteckphuat.png"
+    },
+    {
+        "hospitalname": "Mount Alvernia Hospital",
+        "address": "820 Thomson Rd, Singapore 574623",
+        "generaltelephone": "6347 6688",
+        "emergencytelephone": "6347 6210",
+        "email": "enquiry@mtalvernia.sg",
+        "website": "https://mtalvernia.sg/",
+        "visitinghours": "General Wards - NIL\n\nICU Wards - Mon to Sun including Public Holidays: 10am to 12pm, 4pm to 8.30pm",
+        "imageurl": "https://s22.postimg.cc/ucb35ngz5/mount_alvernia.png"
+    },
+    {
+        "hospitalname": "National University Hospital",
+        "address": "5 Lower Kent Ridge Rd, Singapore 119074",
+        "generaltelephone": "6779 5555",
+        "emergencytelephone": "6772 5000",
+        "email": "NUH_Enquiries@nuhs.edu.sg",
+        "website": "http://www.nuh.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12pm to 8pm\n\nICU Wards - Mon to Sun including Public Holidays: 9am to 9pm",
+        "imageurl": "https://s22.postimg.cc/eqtrls51t/nuh.png"
+    },
+    {
+        "hospitalname": "Ng Teng Fong General Hospital",
+        "address": "1 Jurong East Street 21, Singapore 609606",
+        "generaltelephone": "6716 2000",
+        "emergencytelephone": "6716 2000",
+        "email": "JHCampus_enquiries@nuhs.edu.sg",
+        "website": "https://www.ntfgh.com.sg/",
+        "visitinghours": "General Wards - Mon to Fri: 12:00pm to 2pm, 5pm to 8.30pm | Sat, Sun & Public Holiday: 12pm to 8.30pm\n\nICU Wards - Mon to Sun including Public Holidays: 12am to 8.30pm",
+        "imageurl": "https://s22.postimg.cc/6y33ttm81/ng_teng_fong.png"
+    },
+    {
+        "hospitalname": "Jurong Community Hospital",
+        "address": "1 Jurong East Street 21, Singapore 609606",
+        "generaltelephone": "6716 2000",
+        "emergencytelephone": "6716 2000",
+        "email": "JHCampus_enquiries@nuhs.edu.sg",
+        "website": "https://www.jch.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12pm to 8.30pm\n\nICU Wards - NIL",
+        "imageurl": "https://s22.postimg.cc/6y33ttm81/ng_teng_fong.png"
+    },
+    {
+        "hospitalname": "Parkway East Hospital",
+        "address": "321 Joo Chiat Place, Singapore 427990",
+        "generaltelephone": "6344 7588",
+        "emergencytelephone": "6340 8666",
+        "email": "enquiries_esh@parkway.com.sg",
+        "website": "https://www.parkwayeast.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 9am to 9pm\n\nICU Wards - Mon to Sun including Public Holidays: 9am to 9pm",
+        "imageurl": "https://s22.postimg.cc/up2hbs9ip/gleneagles.png"
+    },
+    {
+        "hospitalname": "Raffles Hospital",
+        "address": "585 North Bridge Rd, Singapore 188770",
+        "generaltelephone": "6311 1111",
+        "emergencytelephone": "6311 1555",
+        "email": "enquiries@raffleshospital.com",
+        "website": "http://www.raffleshospital.com/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8pm\n\nICU Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8pm",
+        "imageurl": "https://s33.postimg.cc/ryhihr4e7/raffles.png"
+    },
+    {
+        "hospitalname": "Sengkang General Hospital",
+        "address": "110 Sengkang East Way, Singapore 544886",
+        "generaltelephone": "6930 6000",
+        "emergencytelephone": "6930 6000",
+        "email": "NIL",
+        "website": "https://www.skh.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8:30pm\n\nICU Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8:30pm",
+        "imageurl": "https://s33.postimg.cc/6otw6yljj/sengkang_general.png"
+    },
+    {
+        "hospitalname": "Singapore General Hospital",
+        "address": "Outram Rd, Singapore 169608",
+        "generaltelephone": "6222 3322",
+        "emergencytelephone": "6321 4311",
+        "email": "NIL",
+        "website": "http://www.sgh.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8pm\n\nICU Wards - Mon to Sun including Public Holidays: 12pm to 2pm, 5pm to 8pm",
+        "imageurl": "https://s33.postimg.cc/6otw6zo4f/singapore.png"
+    },
+    {
+        "hospitalname": "Tan Tock Seng Hospital",
+        "address": "11 Jalan Tan Tock Seng, Singapore 308433",
+        "generaltelephone": "6256 6011",
+        "emergencytelephone": "6357 8866",
+        "email": "contact@ttsh.com.sg",
+        "website": "https://www.ttsh.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12pm to 8pm\n\nICU Wards - Mon to Sun including Public Holidays: 12pm to 8pm",
+        "imageurl": "https://s33.postimg.cc/7r42pk1sv/tantockseng.png"
+    },
+    {
+        "hospitalname": "Tan Ah Beng Hospital",
+        "address": "11 Geylang Street, Singapore 69420",
+        "generaltelephone": "9137 6767",
+        "emergencytelephone": "9137 6767",
+        "email": "dexmatth@hotmail.com",
+        "website": "https://www.google.com.sg/",
+        "visitinghours": "General Wards - Mon to Sun including Public Holidays: 12am to 12am\n\nICU Wards - Mon to Sun including Public Holidays: 12am to 12am",
+        "imageurl": "https://s33.postimg.cc/uxof4xygv/Chik3n_picture.png"
+    }
+
+]
+}
